@@ -9,22 +9,25 @@ Example report:
 
 
 
-    This script will have to run with the project owner as the person with the google classroom information.
-    OR
-    If you deploy it as a web app and run as the user option is selected and the user accepts the permissions then anyone can use it.
+This script will have to run with the project owner as the person with the google classroom information.
 
-    See https://vanburen.brooklyncoop.org/google-classroom-history for an example of a deployed running application.
+OR
 
-    The only thing that should be changed is the SHARE_EMAIL constant and you can set it to a parent's email address and anyone one's email address.
+If you deploy it as a web app and run as the user option is selected and the user accepts the permissions then anyone can use it.
 
-    Also this makes an assumption that homework is what we want to focus on.
-    It also assumes that homework has "hw" or "homework" etc. in the title or it is due early in the morning.
+See https://vanburen.brooklyncoop.org/google-classroom-history for an example of a deployed running application.
 
-    It is sad but true that google classroom or may be the administratiors do not clearly distinguish homework from classwork.
+The only thing that should be changed is the SHARE_EMAIL constant and you can set it to a parent's email address and anyone one's email address.
 
-    Enjoy and feel free to modify, like, comment and subscribe!!!
+Also this makes an assumption that homework is what we want to focus on.
 
-    As always, we look forward to see what you can build!!!
+It also assumes that homework has "hw" or "homework" etc. in the title or it is due early in the morning.
+
+It is sad but true that google classroom or may be the administratiors do not clearly distinguish homework from classwork.
+
+Enjoy and feel free to modify, like, comment and subscribe!!!
+
+As always, we look forward to see what you can build!!!
 
 ```
 const SHARE_EMAIL="PARENT-OR-OTHER-EMAIL-HERE"; // e.g., "parent@gmail.com"
