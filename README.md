@@ -9,7 +9,6 @@ Example report:
 
 
 
-```
     This script will have to run with the project owner as the person with the google classroom information.
     OR
     If you deploy it as a web app and run as the user option is selected and the user accepts the permissions then anyone can use it.
@@ -27,6 +26,7 @@ Example report:
 
     As always, we look forward to see what you can build!!!
 
+```
 const SHARE_EMAIL="PARENT-OR-OTHER-EMAIL-HERE"; // e.g., "parent@gmail.com"
 ```
 
