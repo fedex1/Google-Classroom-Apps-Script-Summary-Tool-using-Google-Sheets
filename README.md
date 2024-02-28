@@ -1,23 +1,61 @@
-# Classroom-to-Sheets - Integrate classroom details on Google Sheets ✅
+# Google-Classroom-Apps-Script-Summary-Tool-using-Google-Sheets 
+
+based on git template Classroom-to-Sheets - Integrate classroom details on Google Sheets ✅
+
+The program is completely written from scratch.
+
+```
+    This script will have to run with the project owner as the person with the google classroom information.
+    OR
+    If you deploy it as a web app and run as the user option is selected and the user accepts the permissions then anyone can use it.
+
+    See https://vanburen.brooklyncoop.org/google-classroom-history for an example of a deployed running application.
+
+    The only thing that should be changed is the SHARE_EMAIL constant and you can set it to a parent's email address and anyone one's email address.
+
+    Also this makes an assumption that homework is what we want to focus on.
+    It also assumes that homework has "hw" or "homework" etc. in the title or it is due early in the morning.
+
+    It is sad but true that google classroom or may be the administratiors do not clearly distinguish homework from classwork.
+
+    Enjoy and feel free to modify, like, comment and subscribe!!!
+
+    As always, we look forward to see what you can build!!!
+
+const SHARE_EMAIL="PARENT-OR-OTHER-EMAIL-HERE"; // e.g., "parent@gmail.com"
+```
 
 ## 💡Inspiration
-* 📚 Since the start of the Pandemic, Google Sheets have been the GoTo place for us, students, to maintain class schedules. Generally, the sheet is prepared by the Class Representative and then shared with the class.
+* 📚 Our son using google classroom and we want to help organize the home projects.
 
 * 🎓 Still, we need to add upcoming assignments and certain class details manually.
 
 ***
 
 ## ⚙️ What it does do?
-Classroom-to-Sheets is a google script that connects the Google Sheet with the corresponding Google Classroom account and integrates assignments and class details.
+```
+    This script will have to run with the project owner as the person with the google classroom information.
+    OR
+    If you deploy it as a web app and run as the user option is selected and the user accepts the permissions then anyone can use it.
+
+    See https://vanburen.brooklyncoop.org/google-classroom-history for an example of a deployed running application.
+
+    The only thing that should be changed is the SHARE_EMAIL constant and you can set it to a parent's email address and anyone one's email address.
+
+    Also this makes an assumption that homework is what we want to focus on.
+    It also assumes that homework has "hw" or "homework" etc. in the title or it is due early in the morning.
+
+    It is sad but true that google classroom or may be the administratiors do not clearly distinguish homework from classwork.
+
+    Enjoy and feel free to modify, like, comment and subscribe!!!
+
+    As always, we look forward to see what you can build!!!
+
+const SHARE_EMAIL="PARENT-OR-OTHER-EMAIL-HERE"; // e.g., "parent@gmail.com"
+```
 
 ### Features: 
 
-* 👩‍🏫 **Get Class Details**: It returns the classroom details along with the Class Teachers' details.
-![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/56017960/155875081-7d810728-17f2-46ae-af2c-4c14377931a6.gif)
-
-
-* 🔍 **Insert Assignments**: You can also insert assignments posted on the classroom in the sheet.
-![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/56017960/155875187-7eaafa4a-0e15-4f9f-9fe5-bbbec776d116.gif)
 
 
 ***
@@ -53,37 +91,27 @@ It is built using the:
 
 ## 🚀 Use of GitHub
 * To host my repository ofcourse :)
-* I also hosted the website on Github Pages [here](https://savi-1311.github.io/classroom-to-sheets/)
-* I also used Canva (courtesy to Github Student Developer Pack!) to create the Video Thumbnail.
-* JetBrains WebStrom to develop the code locally!
-* Host the code and attach it on Github Gist as well.
 
 ***
 
 ## Challenges I ran into 🙁
 
-❗️Getting Started with Google App Scripts: I came accross this amazing platform by Google recently and I found very less projects already made using it. So, it was tough to "*stackoverflow*" the doubts, and I had to understand everything using the documentation. (Which is more than enough btw!)
-
-❗️Providing Authorization: For a long time, the script was running on debugger but not on sheets. Lately, I found that authorization doesn't work with Custom Formulas, but with Custom Menu only. So I switched the complete code to Custom Menus.
 
 ***
 
 ## Accomplishments that I'm proud of 😇
 
-* I learned a new tech this weekend and I'll definitely use the product myself!
 
 ***
 
 ## What I learned 🤔
 
-* **Google App Scripts**: I have understood the concepts and after creating this little product, I'm looking forward to creating more complex scripts using it.
 
 ***
 
-## What's next for Classroom-to-Sheets - Integrate classroom details on Google Sheets ✅
+## What's next for 
+# Google-Classroom-Apps-Script-Summary-Tool-using-Google-Sheets 
 
-A lot of things can be done with this project.
-* Formatting of the rows inserted.
-* Inserting at the desired location.
+
 
 ***
