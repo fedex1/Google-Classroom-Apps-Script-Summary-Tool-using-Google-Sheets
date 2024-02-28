@@ -4,6 +4,11 @@ based on git template Classroom-to-Sheets - Integrate classroom details on Googl
 
 The program is completely written from scratch.
 
+Example report:
+
+![google classroom github example output from apps script summary](https://github.com/fedex1/Google-Classroom-Apps-Script-Summary-Tool-using-Google-Sheets/assets/167614/59b1cb98-cb98-47ed-8be6-e8cd465b8448)
+
+
 ```
     This script will have to run with the project owner as the person with the google classroom information.
     OR
@@ -75,13 +80,7 @@ It is built using the:
 * Create a New Google Sheet
 * In the Extensions Menu -> Select App Scripts
  ![image](https://user-images.githubusercontent.com/56017960/155875292-14b2f340-4efb-4c1d-a30e-721b4cfe41d2.png)
-* App Scripts connected to the sheet will open up. Clear all the prewritten code and insert the following [code](https://gist.github.com/savi-1311/6838d1e3eb879208a7f9c44b428e8cf1) into it.
-* Click on Services on the left pane to add the Google Classroom API service.
- ![image](https://user-images.githubusercontent.com/56017960/155875549-95c7b947-300c-4923-bbf9-afbe1706bb4d.png)
-* Save the script by clicking on Ctrl+S.
-* Reload the Google Sheets. You will now find a new Custom Menu. If not, try to open the script once again.
- ![image](https://user-images.githubusercontent.com/56017960/155875441-211cb34e-d09d-40a2-abcf-476b5b045e8b.png)
-* Run a task. For the first time, you will be asked for authorization. Provide all of them.
+
 * All the Details will be displayed with a single click!
 
 ***
