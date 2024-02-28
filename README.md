@@ -23,7 +23,7 @@ Also this makes an assumption that homework is what we want to focus on.
 
 It also assumes that homework has "hw" or "homework" etc. in the title or it is due early in the morning.
 
-It is sad but true that google classroom or may be the administratiors do not clearly distinguish homework from classwork.
+It is sad but apparently true that google classroom or may be the administrators in our test cases do not clearly distinguish homework from classwork.
 
 Enjoy and feel free to modify, like, comment and subscribe!!!
 
