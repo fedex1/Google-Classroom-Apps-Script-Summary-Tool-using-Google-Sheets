@@ -5,8 +5,8 @@ based on git template Classroom-to-Sheets - Integrate classroom details on Googl
 The program is completely written from scratch.
 
 Example report:
+![google classroom github example output from apps script summary (1)](https://github.com/fedex1/Google-Classroom-Apps-Script-Summary-Tool-using-Google-Sheets/assets/167614/3ef709bf-2d03-495d-8e5f-4c927dd91980)
 
-![google classroom github example output from apps script summary](https://github.com/fedex1/Google-Classroom-Apps-Script-Summary-Tool-using-Google-Sheets/assets/167614/59b1cb98-cb98-47ed-8be6-e8cd465b8448)
 
 
 ```
