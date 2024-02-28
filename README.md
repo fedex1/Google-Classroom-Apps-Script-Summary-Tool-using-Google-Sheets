@@ -13,7 +13,7 @@ This script will have to run with the project owner as the person with the googl
 
 OR
 
-If you deploy it as a web app and run as the user option is selected and the user accepts the permissions then anyone can use it.
+If you deploy it as a web app and the "run as the user option" is selected and the user accepts the permissions then anyone can use it.
 
 See https://vanburen.brooklyncoop.org/google-classroom-history for an example of a deployed running application.
 
