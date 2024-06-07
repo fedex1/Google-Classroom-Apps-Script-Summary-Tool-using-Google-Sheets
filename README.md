@@ -34,7 +34,7 @@ const SHARE_EMAIL="PARENT-OR-OTHER-EMAIL-HERE"; // e.g., "parent@gmail.com"
 ```
 
 ## 💡Inspiration
-* 📚 Our son using google classroom and we want to help organize the home projects.
+* 📚 Our son is using google classroom and we want to help organize the home projects.
 
 * 🎓 Still, we need to add upcoming assignments and certain class details manually.
 
